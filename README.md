@@ -4,8 +4,8 @@ Rust port of [ScKey](https://github.com/FMZNkdv/ScKey)
 
 ## Quick Start
 
-### Using Pre-built Binaries (Recommended)
-1. Download the latest release from the [Releases page](https://github.com/wassuped/sc-key/releases)
+### Using Pre-built Binaries
+1. Download the latest release from the [Releases page](https://github.com/wassuped/sc-key/releases/latest)
 2. Run directly from command line:
    ```bash
    ./sc-key <obfuscated_key>
