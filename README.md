@@ -56,4 +56,4 @@ F25BE346CF65BC6994892E7DB84B7696E7E2190003152CB16A4EDB3379377824D500F41A5CCF96C1
 Done! You've got the SPK.
 
 # Warnings!!!!
-## You need to use Libu with the already killed promon
+## You need to use Lib with the already killed promon
